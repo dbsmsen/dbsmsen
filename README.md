@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 🖐, Myself Debsoomonto Sen</h1>
-<h3 align="center">I'm an aspiring mobile app developer with a passion for creating user-friendly and visually appealing applications for both Android and iOS platforms. I'm particularly interested in leveraging Flutter, a framework that allows for efficient cross-platform development. I'm eager to leverage my skills and knowledge to contribute to a team that prioritizes innovation and user satisfaction.</h3>
+<h3 align="center">an aspiring mobile app developer with a passion for creating user-friendly and visually appealing applications for both Android and iOS platforms. I'm particularly interested in leveraging Flutter, a framework that allows for efficient cross-platform development. I'm eager to leverage my skills and knowledge to contribute to a team that prioritizes innovation and user satisfaction.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=6c09b952kxmlqpdifxylmprqwebxbt4r472d2llul3t8acoi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbsmsen&label=Profile%20views&color=0e75b6&style=flat" alt="dbsmsen" /> </p>
