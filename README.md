@@ -16,7 +16,6 @@
 <a href="https://twitter.com/notdbsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notdbsm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debsoomonto sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debsoomonto sen" height="30" width="40" /></a>
 <a href="https://instagram.com/_dbsm.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dbsm.in" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sendebsoomonto7149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sendebsoomonto7149" height="30" width="40" /></a>
 <a href="https://discord.gg/dbsm_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dbsm_13" height="30" width="40" /></a>
 </p>
 
