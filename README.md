@@ -19,28 +19,28 @@
 
 ### ✍️ Random Dev Quote
 <div style="text-align: center;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote image" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote image" />
 </div>
 
 # 📊 GitHub Stats:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dbsmsen&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dbsmsen&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
+<!--     <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbsmsen&theme=radical&hide_border=false" />
+    </td> -->
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbsmsen&theme=dark&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsmsen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsmsen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
 
 ### 🔝 Top Contributed Repo
 <div style="text-align: center;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=dbsmsen&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="quote image" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=dbsmsen&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="quote image" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dbsmsen&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dbsmsen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
