@@ -9,13 +9,11 @@
 - 💬 Ask me about **Flutter App Development**
 - 📫 Reach me at: **sendebsoomonto7149@gmail.com**
 
----
 
 ## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dbsm_13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dbsm.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsoomonto-sen)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/4vcWzfMxo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Wild_Ad_4056) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/notdbsm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yt_debsen)
 
----
 
 ## 💻 Tech Stack
 
@@ -27,7 +25,6 @@
 
 **Design & Tools:**  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
 
----
 
 ## ✍️ Dev Quote
 
@@ -45,17 +42,14 @@
   </tr>
 </table>
 
----
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dbsmsen&theme=radical&no-frame=true&margin-w=4)
 
----
 
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=dbsmsen&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
----
