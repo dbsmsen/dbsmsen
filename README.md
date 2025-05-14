@@ -55,6 +55,7 @@
 
 ## 🔝 Top Contributed Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=dbsmsen&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dbsmsen&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
 ---
