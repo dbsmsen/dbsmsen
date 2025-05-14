@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖐, I'm Debsoomonto Sen</h1>
 <h3 align="center">Aspiring Mobile App Developer | Flutter Enthusiast | Computer Science Undergraduate</h3>
 
-<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=6c09b952kxmlqpdifxylmprqwebxbt4r472d2llul3t8acoi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img align="right" alt="coding" width="380" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=6c09b952kxmlqpdifxylmprqwebxbt4r472d2llul3t8acoi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbsmsen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
