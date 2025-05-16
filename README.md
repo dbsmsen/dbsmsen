@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack
 
-**Mobile & Web:**  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat\&logo=Dart\&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat\&logo=firebase\&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat\&logo=kotlin\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
+**Mobile & Web:**  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat\&logo=Dart\&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat\&logo=kotlin\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
 
 **Programming Languages:**  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat\&logo=c\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
 
